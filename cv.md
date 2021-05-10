@@ -15,3 +15,15 @@ I want to become a programmer and work in IT. I liked make a progamms code when 
 * Markdown;
 * JavaScript;
 * PHP.
+
+### Experience
+***
+I've had experience with educational projects (I mean in IT area).
+
+### Education
+***
+[Donetsk National Technical University](http://donntu.org/)/[Донецкий Национальный Технический Университет](http://donntu.org/)
+
+### English
+***
+My English level is A2.
